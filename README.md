@@ -1,7 +1,7 @@
 # MusicPlayer-Project
 
 ## Description
-The aim of this project is match two of the matching squares by clicking on them.
+The aim of this project is to browse a sound file on the users local machine and play the file. The user can also pause, stop and exit the program.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ The aim of this project is match two of the matching squares by clicking on them
 
 * On the Github page (https://github.com/Brendan-A-Wilson/MusicPlayer-Project/tree/master) Click on the 'code' button and then 'download ZIP' files.
 * Extract the file by right clicking on it and then click 'extract here'.
-* Open the folder 'Picture-viewer' and double click on 'MatchingPairsGame.sln' to open the project in Visual Studio.
+* Open the folder 'MusicPlayer-Project-Master' and double click on 'MyMusicPlayer.sln' to open the project in Visual Studio.
 * Click on 'Debug' then 'start without debugging' to run the program. Or press Ctrl + F5.
 
 ## Version History
